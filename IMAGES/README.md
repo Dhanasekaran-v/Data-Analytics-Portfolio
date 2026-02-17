@@ -1,139 +1,92 @@
-📸 Dashboard & Visualization Screenshots
+# 📸 Dashboard & Visualization Screenshots
+
+---
+
+## 📌 Overview
 
 This folder contains visualization outputs and dashboard screenshots from various Data Analytics and Machine Learning projects.
 
-These images represent final analytical results, business insights, and model outputs.
+These images represent final analytical results, business insights, and model outputs created using Python, Power BI, and Excel.
 
-🧠 Machine Learning & Python Visualizations
-🔹 Customer Segmentation – K-Means Clustering
-📌 Elbow Method
+The purpose of this folder is to provide visual proof of analytical work and demonstrate dashboard design and data storytelling skills.
 
-File: elbow_method.png
-Used to determine the optimal number of clusters (K).
+---
 
-📌 Customer Segments
+# 🧠 Machine Learning & Python Visualizations
 
-File: kmeans_clusters.png
-Scatter plot showing clustered customer groups.
+## 🔹 Customer Segmentation – K-Means Clustering
 
-📌 Average Churn Rate by Cluster
+### 📌 Elbow Method  
+**File:** `elbow_method.png`  
+Used to determine the optimal number of clusters (K) for segmentation.
 
-File: churn_by_cluster.png
-Bar chart comparing churn rate across different clusters.
+### 📌 Customer Segments  
+**File:** `kmeans_clusters.png`  
+Scatter plot visualizing clustered customer groups based on behavioral features.
 
-📌 Customer Count by Cluster
+### 📌 Average Churn Rate by Cluster  
+**File:** `churn_by_cluster.png`  
+Bar chart comparing churn rate across different customer clusters.
 
-File: cluster_sizes.png
-Displays distribution of customers in each cluster.
+### 📌 Customer Count by Cluster  
+**File:** `cluster_sizes.png`  
+Displays distribution of customers within each cluster.
 
-📌 Target Class Distribution
-
-File: class_balance.png
+### 📌 Target Class Distribution  
+**File:** `class_balance.png`  
 Shows class imbalance between churned and non-churned customers.
 
-📊 Power BI Dashboards
-🔹 COVID-19 India Dashboard
+---
 
-File: Covid-19 India Dashboard 2020-2023.jpg
+# 📊 Power BI Dashboards
 
-Features:
+## 🔹 COVID-19 India Dashboard  
+**File:** `Covid-19 India Dashboard 2020-2023.jpg`
 
-Confirmed, Recovered, Death KPIs
+### Features:
+- Confirmed, Recovered, and Death KPIs  
+- Gender-based case breakdown  
+- Regional heatmap  
+- Wave-based trend analysis  
 
-Gender-based breakdown
+---
 
-Regional heatmap
+## 🔹 Global Overview Dashboard  
+**File:** `Global Overview.jpg`
 
-Trend analysis
+### Features:
+- Population growth trends  
+- GDP growth analysis  
+- Country-wise economic mapping  
+- Comparative development indicators  
 
-🔹 Global Overview Dashboard
+---
 
-File: Global Overview.jpg
+## 🔹 Health & Development Dashboard  
+**File:** `Health & Devolpment.jpg`
 
-Features:
+### Features:
+- Infant mortality vs GDP comparison  
+- Literacy rate by region  
+- Income group segmentation  
+- Regional health indicators  
 
-Population trends
+---
 
-GDP growth analysis
+## 🔹 Heart Disease Analysis  
+**File:** `Heart Disease Analysis.jpg`
 
-Country-wise economic mapping
+### Features:
+- Risk level categorization  
+- Gender-based disease distribution  
+- Cholesterol and blood pressure insights  
+- Age-based health trends  
 
-🔹 Health & Development Dashboard
+---
 
-File: Health & Devolpment.jpg
+## 🔹 Salary Data Dashboard  
+**File:** `Salary Data Dashboard.jpg`
 
-Features:
-
-Infant mortality vs GDP
-
-Literacy rate by region
-
-Income group segmentation
-
-Regional health indicators
-
-🔹 Heart Disease Analysis
-
-File: Heart Disease Analysis.jpg
-
-Features:
-
-Risk categorization
-
-Gender-based disease distribution
-
-Cholesterol & BP insights
-
-Age-based trends
-
-🔹 Salary Data Dashboard
-
-File: Salary Data Dashboard.jpg
-
-Features:
-
-Salary by job role
-
-Education impact on salary
-
-Experience-based compensation trends
-
-Gender salary breakdown
-
-🔹 Superstore Sales Performance Dashboard
-
-File: Superstore's Sales Dashboard.jpg
-
-Features:
-
-Sales by category
-
-Monthly revenue trend
-
-Discount analysis
-
-KPI performance metrics
-
-🎯 Purpose of This Folder
-
-This folder serves as:
-
-Visual proof of project outputs
-
-Dashboard preview for recruiters
-
-Supporting visuals for portfolio documentation
-
-Analytical result demonstrations
-
-🛠 Tools Used Across Visualizations
-
-Python (Matplotlib, Seaborn, Scikit-Learn)
-
-Power BI
-
-Excel
-
-Data Cleaning & EDA Techniques
-
-Machine Learning (K-Means Clustering)
+### Features:
+- Salary by job role  
+- Education impact on compensation
