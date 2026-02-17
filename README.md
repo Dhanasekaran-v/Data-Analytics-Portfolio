@@ -1,18 +1,48 @@
-# 📊 Data Analytics And Data Science Portfolio
+# 👋 Hi, I'm Dhanasekaran
 
-This repository contains my Data Analytics and Data Science projects completed during my course period.
+Aspiring Data Analyst skilled in Excel, SQL, Python, Power BI & Tableau. 
+Passionate about transforming raw data into meaningful business insights.
 
-## 🛠 Tools & Technologies
-- Excel (Advanced)
-- Python
-- SQL
+---
+
+## 🧰 Tools & Technologies
+- Excel (Advanced, Pivot Tables, Dashboards)
+- SQL (Joins, Aggregations, Window Functions)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Power BI
-- Machine Learning
+- Tableau
+- Machine Learning (Regression, Classification)
 
-## 📁 Projects Included
-- Sales Data Analysis using Advanced Excel
-- Data Cleaning and Dashboard Creation
-- Data Science and Machine Learning Projects
+---
 
-## 📌 About Me
-Aspiring Data Analyst with hands-on experience in data analysis, visualization, and business insights.
+## 📊 Portfolio Projects
+
+### 📁 Excel Projects
+Sales dashboard and business KPI analysis using pivot tables and charts.
+
+### 📁 SQL Projects
+Business data querying and insight generation using complex SQL queries.
+
+### 📁 Python Projects
+Data cleaning, EDA, and visualization using Pandas and Matplotlib.
+
+### 📁 Machine Learning Projects
+Predictive models for classification and regression problems.
+
+### 📁 Power BI & Tableau
+Interactive business dashboards for decision-making.
+
+---
+
+## 📈 Key Skills Demonstrated
+✔ Data Cleaning  
+✔ Exploratory Data Analysis  
+✔ Dashboard Development  
+✔ Business Insight Generation  
+✔ Predictive Modeling  
+
+---
+
+## 📬 Contact
+📧 dhanasekaranvengadachalam@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/dhanasekaran-vengadachalam-b74a40310
